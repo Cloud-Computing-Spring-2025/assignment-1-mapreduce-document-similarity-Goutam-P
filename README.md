@@ -163,9 +163,5 @@ This project successfully demonstrates how **Hadoop MapReduce** can be used to c
 
 ---
 
-## 🔗 References
-- [Apache Hadoop Documentation](https://hadoop.apache.org/docs/stable/)
-- [Docker & Hadoop Setup Guide](https://towardsdatascience.com/running-hadoop-on-docker-a-step-by-step-guide-84b39f2aa4f4)
 
-🚀 **Happy Coding!**
 
